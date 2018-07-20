@@ -1,0 +1,2 @@
+# repo-insights
+Repository insights.
